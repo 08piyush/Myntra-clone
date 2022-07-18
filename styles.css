@@ -24,7 +24,7 @@ header{
     height: 50vw;
 }
 
-sup{top:-.4rem;font-size:8px;line-height:0;position:relative;vertical-align:baseline;text-transform:uppercase}
+sup{top:-.4rem;color: crimson; font-size:8px;line-height:0;position:relative;vertical-align:baseline;text-transform:uppercase}
 
 nav ul li{
     list-style: none;
@@ -175,4 +175,3 @@ footer{
 
     }
 
-    
